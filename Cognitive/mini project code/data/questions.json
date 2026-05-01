@@ -1,0 +1,683 @@
+﻿{
+  "NUMERICAL ABILITY": {
+    "medium": [
+     {
+      "id": "NA-1",
+      "type": "NUMERICAL ABILITY",
+      "question": "What is the approximate ratio of students who received grade E to those who received grade C or D in 2008?",
+      "image": "images/NA-1.png",
+      "options": {
+        "A": "2:7",
+        "B": "2:3",
+        "C": "1:3",
+        "D": "1:5"
+      },
+      "answer": "1:5"
+    },
+    {
+  "id": "NA-2",
+  "type": "NUMERICAL ABILITY",
+  "question": "What was the percentage decrease of Linen output between 2011 and 2012? (Enter only the number, without the percentage sign)",
+  "image": "images/NA-2.png",
+  "input_type": "text",
+  "answer": "80"
+},
+    {
+      "id": "NA-3",
+      "type": "NUMERICAL ABILITY",
+      "question": "Which stock increased its value the most from January to February?",
+      "image": "images/NA-5.png",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "NA-5",
+      "type": "NUMERICAL ABILITY",
+      "question": "What percentage of females were treated with medicine A?",
+      "image": "images/NA-3.png",
+      "options": {
+        "A": "40%",
+        "B": "120%",
+        "C": "20%",
+        "D": "50%"
+      },
+      "answer": "40%" 
+    },
+    
+    {
+      "id": "NA-4",
+      "type": "NUMERICAL ABILITY",
+      "question": "What is the missing number that should replace the question mark?",
+      "image": "images/NA-4.png",
+      "options": {
+        "A": "4",
+        "B": "11",
+        "C": "0",
+        "D": "7",
+        "E": "12",
+        "F": "6"
+      },
+      "answer": "C"
+    },
+      {
+        "id": 1,
+        "type": "NUMERICAL ABILITY",
+        "question": "It takes two machines at a toy factory 50 minutes to create ten (10) teddy bears. How many teddy bears can one machine create in 30 minutes?",
+        "options": ["6 teddy bears", "5 teddy bears", "3 teddy bears", "2 teddy bears"],
+        "answer": "3 teddy bears"
+      },
+      {
+        "id": 2,
+        "type": "NUMERICAL ABILITY",
+        "question": "19, 20, 21, ?, ?, 26, 28, 32, 33, 40\nWhich two numbers should replace the question marks?",
+        "options": ["22 and 24", "23 and 25", "21 and 22", "24 and 26"],
+        "answer": "22 and 24"
+      },
+      {
+        "id": 3,
+        "type": "NUMERICAL ABILITY",
+        "question": "Which number is the odd one out? 84129, 32418, 47632, 36119, 67626, 72927",
+        "options": ["84129", "32418", "47632", "36119"],
+        "answer": "47632"
+      },
+      {
+        "id": 4,
+        "type": "NUMERICAL ABILITY",
+        "question": "99/? = 24.75 * 2^4. Complete the equation by correctly identifying the missing part of the calculation.",
+        "options": ["0.75", "1.95 – 0.75", "0.52", "0.25"],
+        "answer": "0.25"
+      },
+      {
+        "id": 6,
+        "type": "NUMERICAL ABILITY",
+        "question": "Find the missing number:\n1/10, 1/4, 2/5, 11/20, ?, 17/20",
+        "options": ["3/10", "7/10", "9/20", "11/10"],
+        "answer": "7/10"
+      },
+      {
+        "id": 8,
+        "type": "NUMERICAL ABILITY",
+        "question": "To keep in shape Owen exercises daily. His workout routine includes running 3 miles every Monday, Wednesday, and Friday. How many miles will he run in four weeks?",
+        "options": ["9", "12", "36", "27"],
+        "answer": "36"
+      },
+      {
+        "id": 9,
+        "type": "NUMERICAL ABILITY",
+        "question": "Which of the following has the highest value?",
+        "options": ["25% of 13", "31/2", "15/5", "π"],
+        "answer": "31/2"
+      },
+      {
+        "id": 10,
+        "type": "NUMERICAL ABILITY",
+        "question": "If the temperature decreases by 2 degrees per 1,000 feet of gained altitude and if the temperature at sea level is 25 degrees, what would the temperature at 35,000 feet be?",
+        "options": ["-45", "-35", "-70", "-10"],
+        "answer": "-45"
+      },
+      {
+        "id": 11,
+        "type": "NUMERICAL ABILITY",
+        "question": "A newspaper salesman sells 40% of his newspapers. He now has 360 newspapers left. How many newspapers did he have to begin with?",
+        "options": ["600", "560", "480", "660"],
+        "answer": "600"
+      },
+      {
+        "id": 22,
+        "type": "NUMERICAL ABILITY",
+        "question": "Out of three numbers, the first is twice the second and three times the third. The average of the three numbers is 88. The smallest number is",
+        "options": ["36", "42", "48", "72"],
+        "answer": "48"
+      },
+      {
+        "id": 23,
+        "type": "NUMERICAL ABILITY",
+        "question": "For k in [1,4], the summation of (1 + k!) is",
+        "options": ["37", "38", "39", "40"],
+        "answer": "37"
+      }
+    ],
+    "hard": [
+      {
+        "id": "NA-5",
+        "type": "NUMERICAL ABILITY",
+        "question": "What is the missing number that should replace the question mark?",
+        "image": "images/NA-4.png",
+        "options": { "A": "4", "B": "11", "C": "0", "D": "7", "E": "12", "F": "6" },
+        "answer": "C"
+      },
+      {
+        "id": 5,
+        "type": "NUMERICAL ABILITY",
+        "question": "TechWave Solutions is planning to purchase new laptops and printers for its office. Each laptop costs $800, and each printer costs $150. The company decides to buy twice as many laptops as printers. If the total budget for this purchase is $14,000, how many printers can the company buy?",
+        "options": ["6 printers", "8 printers", "10 printers", "12 printers"],
+        "answer": "8 printers"
+      },
+      {
+        "id": 7,
+        "type": "NUMERICAL ABILITY",
+        "question": "Sonya is on a long hike. She walked 1/3 of the hike on the first day. She walked 2/5 of distance on the second day. On the third day she walked the remaining 12 miles. What is the total distance of the hike?",
+        "options": ["30 miles", "40 miles", "45 miles", "52 miles"],
+        "answer": "45 miles"
+      },
+      {
+        "id": 19,
+        "type": "NUMERICAL ABILITY",
+        "question": "Find a five – digit number that has the following properties:\nIf we put number 1 in front of the digits of that number ( so, we get a six-digit number) it gives a number which is three times smaller than when we write number 1 at the end of that number.",
+        "options": ["28571", "57142", "42857", "71428"],
+        "answer": "42857"
+      },
+      {
+        "id": 20,
+        "type": "NUMERICAL ABILITY",
+        "question": "Square area 90cm^2 was cut into three pieces that make up 3 triangles of different sides (all three different sides and of course all three angles different).",
+        "options": ["5√5", "6√5", "3√10", "9"],
+        "answer": "6√5"
+      },
+      {
+        "id": 21,
+        "type": "NUMERICAL ABILITY",
+        "question": "Find missing number :\n6, 28, 496, ? , 33550336 , .....",
+        "options": ["4096", "8192", "8128", "16384"],
+        "answer": "8128"
+      },
+      {
+        "id": 24,
+        "type": "NUMERICAL ABILITY",
+        "question": "The value of (-√-1)^(4n+7) is(n>0: (i = √-1)",
+        "options": ["0", "-1", "i", "-i"],
+        "answer": "i"
+      },
+      {
+        "id": 25,
+        "type": "NUMERICAL ABILITY",
+        "question": "A student scored 95, 72, 73, 83 marks in four subjects each out of 100. He wants to score an average between 75 and 80. How much should he score in the fifth subject? Select the best suitable answer from the ranges mentioned below.",
+        "options": ["40-50", "80-97", "35-40", "52-77"],
+        "answer": "52-77"
+      },
+      {
+        "id": 26,
+        "type": "NUMERICAL ABILITY",
+        "question": "An ant has six legs, a spider has eight legs and a mouse has four legs. But recently 612 legs were counted in a Biology laboratory which came from an equal number of each of these animals. Find out how many animals were there in the laboratory.",
+        "options": ["98", "102", "106", "Cannot be calculated"],
+        "answer": "102"
+      },
+      {
+        "id": 27,
+        "type": "NUMERICAL ABILITY",
+        "question": "Out of 65 spherical balls of the same size, 64 balls are of the same weight, but one ball is slightly less in weight compared to others. If there is a weighing balance having two pans that can show either balance or unbalance, then what is the minimum number of times that weighing should be carried out to surely find out the low-weight ball?",
+        "options": ["64", "7", "6", "5"],
+        "answer": "6"
+      },
+      {
+        "id": 28,
+        "type": "NUMERICAL ABILITY",
+        "question": "In a class of 40 students, the number of students who passed Mathematics examination is equal to half the number of students who passed Science examination. Each student in the class has passed at least one of the two examinations. If 5 students passed both the examinations, then the number of students who passed Mathematics examination is",
+        "options": ["5", "10", "15", "20"],
+        "answer": "15"
+      },
+      {
+        "id": 29,
+        "type": "NUMERICAL ABILITY",
+        "question": "What is the next number in the following series?\n2.236, 2.449, 2.646, 2.828, ?",
+        "options": ["3.041", "3.025", "3.000", "3.062"],
+        "answer": "3.000"
+      },
+      {
+        "id": 30,
+        "type": "NUMERICAL ABILITY",
+        "question": "Roy and Kavi are working on an assignment. Roy takes 6 hours to type 32 pages on a computer, while Kavi takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?",
+        "options": ["8 hours 15 minutes", "10 hours", "7 hours 50 minutes", "6 hours 40 minutes"],
+        "answer": "8 hours 15 minutes"
+      }
+    ]
+  },
+  "Applied reasoning": {
+    "medium": [
+      { "id": 2, "type": "Applied reasoning", "question": "Suppose a system rewards only final outcomes and ignores the effort or process used to achieve them. What is the most likely long-term effect?", "options": ["People will consistently improve quality", "People may prioritize shortcuts over correctness", "Effort levels will increase significantly", "Collaboration will naturally improve"], "answer": "People may prioritize shortcuts over correctness" },
+      { "id": 4, "type": "Applied reasoning", "question": "You are given responsibility for a task, but the instructions are unclear and the person who assigned it is unavailable. What should you do?", "options": ["Wait until clear instructions are given", "Proceed based on assumptions without verification", "Clarify through available resources and proceed cautiously", "Avoid taking responsibility"], "answer": "Clarify through available resources and proceed cautiously" },
+      { "id": 5, "type": "Applied reasoning", "question": "A team member agrees with everything during discussions but later fails to follow through on decisions. What is the MOST likely underlying issue?", "options": ["Lack of understanding", "Fear of expressing disagreement", "Lack of interest", "Intentional avoidance"], "answer": "Fear of expressing disagreement" },
+      { "id": 6, "type": "Applied reasoning", "question": "During a discussion, one person interrupts frequently but also contributes valuable ideas. What is the BEST way to handle this?", "options": ["Ignore interruptions since ideas are useful", "Confront them aggressively", "Acknowledge their input while setting boundaries for discussion flow", "Exclude them from discussions"], "answer": "Acknowledge their input while setting boundaries for discussion flow" },
+      { "id": 7, "type": "Applied reasoning", "question": "You notice tension between two team members affecting overall performance, but neither openly addresses the issue. What should you do?", "options": ["Ignore it since it is personal", "Confront both publicly", "Address it privately and facilitate resolution", "Replace one of them"], "answer": "Address it privately and facilitate resolution" },
+      { "id": 8, "type": "Applied reasoning", "question": "A highly capable individual consistently works alone and avoids collaboration, slowing team integration. What is the BEST approach?", "options": ["Force them to collaborate", "Allow them to work independently", "Gradually involve them in collaborative tasks", "Remove them from team projects"], "answer": "Gradually involve them in collaborative tasks" },
+      { "id": 9, "type": "Applied reasoning", "question": "If people are evaluated strictly based on comparison with others rather than personal improvement, what is the most likely outcome?", "options": ["Increased motivation for everyone", "Healthy competition with no drawbacks", "Some individuals may feel discouraged despite improvement", "Performance differences will disappear"], "answer": "Some individuals may feel discouraged despite improvement" },
+      { "id": 10, "type": "Applied reasoning", "question": "Suppose feedback is given only when mistakes occur, and not when work is done correctly. What is the likely effect?", "options": ["People will improve faster", "People may associate feedback only with negativity", "Performance will remain unchanged", "Communication will improve"], "answer": "People may associate feedback only with negativity" },
+      { "id": 14, "type": "Applied reasoning", "question": "In an environment where everyone is encouraged to share ideas equally, regardless of expertise, what is the most likely challenge?", "options": ["Lack of participation", "Difficulty in filtering valuable ideas", "Reduced creativity", "Faster decision-making"], "answer": "Difficulty in filtering valuable ideas" },
+      { "id": 21, "type": "Applied reasoning", "question": "An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?", "options": ["A debating club meets on the first Sunday morning of every month.", "After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.", "Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.", "Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya."], "answer": "After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work." },
+      { "id": 22, "type": "Applied reasoning", "question": "A Tiebreaker is an additional contest carried out to establish a winner among tied contestants. Choose one situation from the options below that best represents a Tiebreaker.", "options": ["At halftime, the score is tied at 2-2 in a football match.", "Serena and Maria have each secured 1 set in the game.", "The umpire tosses a coin to decide which team will have bat first.", "RCB and KKR each finished at 140 all out."], "answer": "RCB and KKR each finished at 140 all out." }
+    ],
+    "hard": [
+      { "id": 1, "type": "Applied reasoning", "question": "You are told that in a certain environment, people who ask more questions are often perceived as less confident, even though they understand the topic well. If you were placed in this environment, what would be the BEST approach?", "options": ["Stop asking questions completely", "Ask questions selectively while demonstrating understanding", "Continue asking freely without concern", "Avoid participation altogether"], "answer": "Ask questions selectively while demonstrating understanding" },
+      { "id": 3, "type": "Applied reasoning", "question": "You are working in a team where decisions are made quickly, but often without full discussion. You notice that some important points are being missed. What is the BEST course of action?", "options": ["Accept the system since it is efficient", "Delay decisions until everything is discussed", "Introduce concise checkpoints for critical inputs", "Criticize the decision-making openly"], "answer": "Introduce concise checkpoints for critical inputs" },
+      { "id": 11, "type": "Applied reasoning", "question": "You are in an environment where speaking less is perceived as thoughtful, but speaking more increases visibility. What is the BEST strategy?", "options": ["Speak as much as possible", "Remain mostly silent", "Speak selectively with meaningful contributions", "Follow what others are doing"], "answer": "Speak selectively with meaningful contributions" },
+      { "id": 12, "type": "Applied reasoning", "question": "You are given freedom to complete a task in any way, but expectations are not clearly defined. What is the BEST approach?", "options": ["Do the minimum required", "Overdeliver without direction", "Define reasonable assumptions and align with expectations", "Wait for clarity"], "answer": "Define reasonable assumptions and align with expectations" },
+      { "id": 13, "type": "Applied reasoning", "question": "Suppose in a system, mistakes are penalized heavily but successes are rarely recognized. What is the most likely long-term outcome?", "options": ["People will become highly innovative", "People will avoid taking risks", "Overall performance will increase significantly", "Collaboration will improve"], "answer": "People will avoid taking risks" },
+      { "id": 15, "type": "Applied reasoning", "question": "You are assigned to a team where roles are not clearly defined, and multiple people start working on the same tasks unknowingly. What is the BEST action?", "options": ["Focus only on your own work", "Wait for someone else to organize", "Propose a simple task allocation structure", "Continue working and adjust later"], "answer": "Propose a simple task allocation structure" },
+      { "id": 16, "type": "Applied reasoning", "question": "You receive critical feedback that seems vague and not directly actionable. What should you do?", "options": ["Ignore it since it lacks clarity", "Defend your work immediately", "Seek clarification and specific examples", "Change everything in your approach"], "answer": "Seek clarification and specific examples" },
+      { "id": 17, "type": "Applied reasoning", "question": "A team member becomes unusually quiet after their idea is not selected, but continues to participate minimally. What is the MOST likely interpretation?", "options": ["They lost interest in the task", "They feel undervalued or discouraged", "They have no further ideas", "They are satisfied with the decision"], "answer": "They feel undervalued or discouraged" },
+      { "id": 18, "type": "Applied reasoning", "question": "During discussions, one person frequently agrees publicly but expresses different opinions privately to different individuals. What does this MOST likely indicate?", "options": ["Strong collaboration skills", "Strategic thinking", "Lack of confidence or fear of conflict", "High adaptability"], "answer": "Lack of confidence or fear of conflict" },
+      { "id": 19, "type": "Applied reasoning", "question": "A high-performing team member consistently completes tasks independently but rarely shares progress, causing uncertainty in the team. What is the BEST approach?", "options": ["Let them work independently since performance is high", "Force strict reporting rules immediately", "Encourage regular updates while respecting their autonomy", "Reassign their tasks"], "answer": "Encourage regular updates while respecting their autonomy" },
+      { "id": 20, "type": "Applied reasoning", "question": "You notice that during group discussions, only a few individuals dominate while others remain silent, even when they seem to have ideas. What is the BEST action?", "options": ["Continue discussions as they are", "Directly ask silent members for input in a supportive way", "Ignore since participation is optional", "Replace silent members"], "answer": "Directly ask silent members for input in a supportive way" },
+      { "id": 23, "type": "Applied reasoning", "question": "You are in a team where one member consistently delivers high-quality work but refuses to follow agreed timelines, causing delays for others. What is the BEST approach?","options": ["Ignore the delays since quality is high", "Enforce strict deadlines without discussion", "Discuss balancing quality with team dependencies", "Reassign all their work"], "answer": "Discuss balancing quality with team dependencies" },
+      { "id": 24, "type": "Applied reasoning", "question": "Suppose an organization encourages innovation but criticizes failed attempts publicly. What is the most likely outcome?\nQ24. → C\nPublic criticism of failure discourages risk-taking.", "options": ["Increase in creative risk-taking", "Balanced innovation and stability", "Reduced willingness to experiment", "Higher transparency in failures"], "answer": "Reduced willingness to experiment" },
+      { "id": 25, "type": "Applied reasoning", "question": "During a project discussion, you realize that your idea is better than the one currently accepted, but the team has already moved forward. What should you do?\nQ25. → C\nRight timing + evaluation avoids disruption and adds value.", "options": ["Interrupt and insist on revisiting your idea", "Let it go completely", "Evaluate impact and suggest improvement at the right moment", "Privately criticize the decision later"], "answer": "Evaluate impact and suggest improvement at the right moment" },
+      { "id": 26, "type": "Applied reasoning", "question": "A team leader gives equal attention to all members regardless of performance differences. What is the most likely long-term effect?\n", "options": ["High performers may feel undervalued", "Team productivity will maximize", "Competition will increase positively", "Performance gaps will reduce automatically"], "answer": "High performers may feel undervalued" },
+      { "id": 27, "type": "Applied reasoning", "question": "You are working in an environment where quick decisions are valued more than accurate ones. What is the BEST personal strategy?", "options": ["Always prioritize speed", "Focus only on accuracy", "Balance speed with acceptable accuracy levels", "Avoid decision-making roles"], "answer": "Balance speed with acceptable accuracy levels" },
+      { "id": 28, "type": "Applied reasoning", "question": "A colleague frequently takes credit for shared work but also contributes significantly behind the scenes. What is the BEST way to respond?", "options": ["Publicly confront them immediately", "Ignore since they contribute", "Address the issue privately and clarify contributions", "Stop collaborating with them"], "answer": "Address the issue privately and clarify contributions" },
+      { "id": 29, "type": "Applied reasoning", "question": "In a system where instructions frequently change midway through tasks, what is the most effective approach?\nQ29. → C\nAdaptability is key in dynamic environments.", "options": ["Wait for final instructions before starting", "Continue without adapting", "Build flexibility and regularly realign with updates", "Ignore changes and finish initial plan"], "answer": "Build flexibility and regularly realign with updates" },
+      { "id": 30, "type": "Applied reasoning", "question": "You notice that when feedback is given in a group, some members become defensive and disengaged. What is the BEST approach to improve this?", "options": ["Stop giving feedback entirely", "Continue the same method", "Provide sensitive feedback privately when needed", "Give harsher feedback to build resilience"], "answer": "Provide sensitive feedback privately when needed" }
+    ]
+   },
+  "verbal_reasoning": {
+    "medium": [
+      {
+        "id": 1,
+        "type": "Verbal reasoning",
+        "question": "Canvas is to painter as clay is to ______",
+        "options": ["Sculptor", "Artist", "Kiln", "Potter"],
+        "answer": "Sculptor"
+      },
+      {
+        "id": 2,
+        "type": "Verbal reasoning",
+        "question": "Frank has been depressed for a long time now. He says that he is very ______ at school because he _____ all his classmates and the teachers.",
+        "options": ["happy, likes", "unhappy, dislikes", "tired, alienated", "bored, loves"],
+        "answer": "unhappy, dislikes"
+      },
+      {
+        "id": 3,
+        "type": "Verbal reasoning",
+        "question": "Which is a synonym or antonym to nebulous?",
+        "options": ["Vague", "Villainous", "Whimsical", "Quick"],
+        "answer": "Vague"
+      },
+      {
+        "id": 6,
+        "type": "Verbal reasoning",
+        "question": "Which word does not belong?",
+        "options": ["Canada", "Africa", "Spain", "China"],
+        "answer": "Africa"
+      },
+      {
+        "id": 7,
+        "type": "Verbal reasoning",
+        "question": "Which is a synonym or an antonym to similitude?",
+        "options": ["Equivalence", "Prospect", "Tortuous", "Capricious"],
+        "answer": "Equivalence"
+      },
+      {
+        "id": 9,
+        "type": "Verbal reasoning",
+        "question": "Identify the word that does not belong with the others:",
+        "options": ["Apple", "Banana", "Carrot", "Orange"],
+        "answer": "Carrot"
+      },
+      {
+        "id": 11,
+        "type": "Verbal reasoning",
+        "question": "Speed is to fast as temperature is to",
+        "options": ["Thermometer", "Warm", "Degrees Fahrenheit", "Ice"],
+        "answer": "Warm"
+      },
+      {
+        "id": 12,
+        "type": "Verbal reasoning",
+        "question": "Mitigate – Aggravate. These words:",
+        "options": ["Have similar meanings", "Have opposite meanings", "Are neither similar nor opposite"],
+        "answer": "Have opposite meanings"
+      },
+      {
+        "id": 14,
+        "type": "Verbal reasoning",
+        "question": "In the 1950s, people were ______ and knew little about foreign countries.",
+        "options": ["Cosmopolitan", "Insular", "Erudite", "Intelligent", "Curious"],
+        "answer": "Insular"
+      },
+      {
+        "id": 15,
+        "type": "Verbal reasoning",
+        "question": "Statements are ______ when considered in isolation.",
+        "options": ["Precise", "Misleading", "Complete", "Consistent", "Reliable"],
+        "answer": "Misleading"
+      },
+      {
+        "id": 21,
+        "type": "Verbal reasoning",
+        "question": "The given sentence is wrong. Find the correct replacement. You need not come unless you want to.",
+        "options": ["You don't need to come unless you want to", "You come only when you want to", "You come unless you don't want to", "You needn't come until you don't want to", "No correction required"],
+        "answer": "You don't need to come unless you want to"
+      },
+      {
+        "id": 22,
+        "type": "Verbal reasoning",
+        "question": "Fate smiles ...... those who untiringly grapple with stark realities of life.",
+        "options": ["with", "over", "on", "Round"],
+        "answer": "on"
+      },
+      {
+        "id": 23,
+        "type": "Verbal reasoning",
+        "question": "That which cannot be corrected",
+        "options": ["Unintelligible", "Indelible", "Illegible", "Incorrigible"],
+        "answer": "Incorrigible"
+      },
+      {
+        "id": 29,
+        "type": "Verbal reasoning",
+        "question": "Choose the word which best expresses the meaning of BRIEF",
+        "options": ["Limited", "Small", "Little", "Short"],
+        "answer": "Short"
+      },
+      {
+        "id": 30,
+        "type": "Verbal reasoning",
+        "question": "Choose the word which is the exact OPPOSITE of COMMISSIONED",
+        "options": ["Started", "Closed", "Finished", "Terminated"],
+        "answer": "Terminated"
+      }
+    ],
+    "hard": [
+      {
+        "id": 5,
+        "type": "Verbal reasoning",
+        "question": "If the words below are rearranged to form a proper sentence, what is the last letter of the third word? Girlfriend ring birthday he his her for a gave",
+        "options": ["R", "S", "D", "E"],
+        "answer": "S"
+      },
+      {
+        "id": 8,
+        "type": "Verbal reasoning",
+        "question": "Facts: All crows are black. All black birds are loud. All crows are birds. Conclusion: All crows are loud. Does the conclusion follow?",
+        "options": ["Yes", "No", "Insufficient information"],
+        "answer": "Yes"
+      },
+      {
+        "id": 10,
+        "type": "Verbal reasoning",
+        "question": "Which word does not belong?",
+        "options": ["Doctor", "Professor", "Accountant", "Carpenter", "Humanist"],
+        "answer": "Humanist"
+      },
+      {
+        "id": 16,
+        "type": "Verbal reasoning",
+        "passage": "Many students believe that studying for long hours guarantees success. However, research shows that effective study techniques, such as spaced repetition and active recall, are more beneficial than simply increasing study time.",
+        "question": "What is the main idea of the passage?",
+        "options": ["Studying longer is always better", "Research is not useful for students", "Effective techniques matter more than study time", "Students should avoid studying"],
+        "answer": "Effective techniques matter more than study time"
+      },
+      {
+        "id": 18,
+        "type": "Verbal reasoning",
+        "question": "Despite the committee’s initial enthusiasm, the proposal was ultimately rejected because it failed to ______ the long-term implications of the policy.",
+        "options": ["overlook", "anticipate", "exaggerate", "dismiss"],
+        "answer": "anticipate"
+      },
+      {
+        "id": 19,
+        "type": "Verbal reasoning",
+        "passage": "In an era dominated by rapid technological advancement, individuals often prioritize efficiency over depth, leading to a superficial understanding of complex issues.",
+        "question": "What can be inferred?",
+        "options": ["Technology improves deep thinking", "People focus more on speed than understanding", "Complex issues are no longer important", "Efficiency leads to better knowledge"],
+        "answer": "People focus more on speed than understanding"
+      },
+      {
+        "id": 20,
+        "type": "Verbal reasoning",
+        "question": "The countries' rigid stances on the issue made them _________ negotiations.",
+        "options": ["adaptable", "inflexible", "dissatisfied", "malleable", "optimistic"],
+        "answer": "inflexible"
+      },
+      {
+        "id": 24,
+        "type": "Verbal reasoning",
+        "question": "Rearrange the parts: The grocer \n P: did not listen to the protests of customer \n Q: who was in the habit of weighing less \n R: whom he had cheated \n S: with great audacity",
+        "options": ["PRSQ", "QSPR", "QPRS", "PQSR"],
+        "answer": "QPRS"
+      },
+      {
+        "id": 26,
+        "type": "Verbal reasoning",
+        "question": "Rearrange the sentences: After examining him, the doctor smiled mischievously. Thinking he was sick, father called doctor. Mintu wanted a holiday. Mintu jumped up later. He pretended to be sick. Which sentence should come third?",
+        "options": ["1", "2", "3", "4", "5"],
+        "answer": "2"
+      },
+      {
+        "id": 27,
+        "type": "Verbal reasoning",
+        "question": "Despite his best efforts to conceal his anger ......",
+        "options": ["we could detect that he was very happy", "he failed to give us an impression of his agony", "he succeeded in camouflaging his emotions", "he could succeed in doing it easily", "people came to know that he was annoyed"],
+        "answer": "people came to know that he was annoyed"
+      },
+      {
+        "id": 28,
+        "type": "Verbal reasoning",
+        "question": "To catch a tartar",
+        "options": ["To trap wanted criminal with great difficulty", "To catch a dangerous person", "To meet with disaster", "To deal with a person who is more than one's match", "None of these"],
+        "answer": "To catch a dangerous person"
+      }
+    ]
+  },
+  "logical_reasoning": {
+    "medium": [
+      {
+        "id": 1,
+        "type": "Logical reasoning",
+        "question": "All crows are black. All black birds are loud. All crows are birds.\nStatement: All crows are loud.",
+        "options": ["A) True", "B) False", "C) Insufficient information"],
+        "answer": "A"
+      },
+      {
+        "id": 2,
+        "type": "Logical reasoning",
+        "question": "Statement:\nSome documents require legal review.All documents that require legal review are approved by the legal team.\nConclusion:\nSome documents are approved by the legal team.",
+        "options": ["A) The conclusion follows logically", "B) The conclusion does not follow logically"],
+        "answer": "A"
+      },
+      {
+        "id": 4,
+        "type": "Logical reasoning",
+        "question": "If someone has a car then they also have a bike.\nIf someone has a bike, then they also have a helmet.\n\nWhat can be concluded?",
+        "options": [
+          "A) Those who have helmets also have a car.",
+          "B) Those who have bikes also have a car.",
+          "C) Those who have cars also have a helmet.",
+          "D) Those who have helmets also have a bike."
+        ],
+        "answer": "C"
+      },
+      {
+        "id": 8,
+        "type": "Logical reasoning",
+        "question": "A man walks 1 km towards East and then he turns to South and walks 5 km. Again he turns to East and walks 2 km; after this he turns to North and walks 9 km. Now how far is he from his starting point?",
+        "options": ["A) 3 km", "B) 4 km", "C) 5 km", "D) 7 km"],
+        "answer": "C"
+      },
+      {
+        "id": 9,
+        "type": "Logical reasoning",
+        "question": "A man is facing West. He turns 45° in the clockwise direction and then another 180° in the same direction and then 270° in the anticlockwise direction. Which direction is he facing now?",
+        "options": ["A) West", "B) North-West", "C) South", "D) South-West"],
+        "answer": "D"
+      },
+      {
+        "id": 10,
+        "type": "Logical reasoning",
+        "question": "A bus for Delhi leaves every thirty minutes from a bus stand. An enquiry clerk told a passenger that a bus had already left ten minutes ago and the next bus will leave at 9:35 a.m. At what time did the enquiry clerk give this information to the passenger?",
+        "options": ["A) 8:55 a.m.", "B) 9:08 a.m.", "C) 9:05 a.m.", "D) 9:15 a.m."],
+        "answer": "D"
+      },
+      {
+        "id": 11,
+        "type": "Logical reasoning",
+        "question": "A rectangular area of side 9 and 6 units is to be covered by square tiles of sides 1, 2 and 5 units. The minimum number of tiles needed for this is",
+        "options": ["A) 13", "B) 11", "C) 12", "D) 15"],
+        "answer": "C"
+      },
+      {
+        "id": 12,
+        "type": "Logical reasoning",
+        "question": "Nandini walks a distance of 1 km towards North. She then turns left and walks 1 km. Finally she turns right at an angle of 45° and starts walking. In which direction she is moving finally?",
+        "options": ["A) South-West", "B) North-West", "C) North-East", "D) South-East"],
+        "answer": "B"
+      },
+      {
+        "id": 13,
+        "type": "Logical reasoning",
+        "question": "The following question is based on the alphabet series: ABCDEFGHIJKLMNOPQRSTUVWXYZ If every alternate letter starting from B of the given alphabet is written in small letters, rest all are written in capital letters, how will the month of 'September' be written?",
+        "options": ["A) SEpteMbeR", "B) SEptEMbEr", "C) SEptembER", "D) sePTemBeR"],
+        "answer": "B"
+      },
+      {
+        "id": 15,
+        "type": "Logical reasoning",
+        "question": "Ramesh starts walking from point 'A'. He walks 12 km towards North from there he turns right and walks 4 km, then he again turns right and walks 9 km. How far and which direction he is from his starting point?",
+        "options": ["A) 13 km East", "B) 13 km South", "C) 5 km North", "D) 5 km North-East"],
+        "answer": "D"
+      },
+      {
+        "id": 20,
+        "type": "Logical reasoning",
+        "question": "If TRANSFER is coded as RTNAFSRE, then ELEPHANT would be coded as",
+        "options": ["A) LEPEHATN", "B) LEEPAHTN", "C) LEPEAHTN", "D) LEPEAHNT"],
+        "answer": "C"
+      },
+      {
+        "id": 21,
+        "type": "Logical reasoning",
+        "question": "All good athletes want to win and all athletes who want to win eat a well-balanced diet; therefore all athletes who do not eat a well-balanced diet are bad athletes.\nThe best conclusion from this statement is that",
+        "options": ["A) No bad athlete wants to win.", "B) No athlete who does not eat a well-balanced diet is a good athlete.", "C) Every athlete who eats a well-balanced diet is a good athlete.", "D) All athletes who want to win are good athletes."],
+        "answer": "B"
+      },
+      {
+        "id": 28,
+        "type": "Logical reasoning",
+        "question": "Some books are clocks.\n No dock is a clock.",
+        "options": ["A) Some books are not docks.", "B) Some books are not clocks.", "C) Some docks are not books.", "D) Both (1) and (3)"],
+        "answer": "A"
+      },
+      {
+        "id": 29,
+        "type": "Logical reasoning",
+        "question": "Q13. Safe : Secure :: Protect :",
+        "options": ["A) Lock", "B) Guard", "C) Sure", "D) Conserve"],
+        "answer": "B"
+      },
+      {
+        "id": 30,
+        "type": "Logical reasoning",
+        "question": "Kevin, Joseph, and Nicholas are 3 brothers. If the following statements are all true, which of them is the youngest?\n\n✓Kevin is the oldest.\n\n✓Nicholas is not the oldest.\n\n✓Joseph is not the youngest.",
+        "options": ["A) Joseph", "B) Kevin", "C) Nicholas", "D) Both Joseph and Nicholas"],
+        "answer": "C"
+      }
+    ],
+    "hard": [
+      {
+        "id": 3,
+        "type": "Logical reasoning",
+        "question": "In a certain code language, BEAT is written as YVZG. Then what will be the code of MILD?",
+        "options": ["A) ONRW", "B) NOWR", "C) ONWR", "D) NROW"],
+        "answer": "D"
+      },
+      {
+        "id": 7,
+        "type": "Logical reasoning",
+        "question": "A padlock has a four-digit key code. The following information is given :\n 1. Code 2657 has two correct digits, but neither are in the correct places.\n 2. Code 0415 has one correct digit, but it is in the wrong place.\n 3. Code 4268 has no correct digits.\n 4. Code 1749 has two correct digits and both are in the correct places.\n What is the correct code?",
+        "options": ["A) 4365", "B) 5378", "C) 8736", "D) 5739"],
+        "answer": "D"
+      },
+      {
+        "id": 17,
+        "type": "Logical reasoning",
+        "question": "There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed?",
+        "options": ["A) 16", "B) 24", "C) 36", "D) 42"],
+        "answer": "C"
+      },
+      {
+        "id": 19,
+        "type": "Logical reasoning",
+        "question": "Q4. A, B, C, D, E, F and G are members of a family consisting of four adults and three children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E is an engineer married to one of the brothers and has two children. B is married to D and G is their child. Who is C?",
+        "options": ["A) E’s daughter", "B) G’s brother", "C) F’s father", "D) A’s son"],
+        "answer": "D"
+      },
+      {
+        "id": 22,
+        "type": "Logical reasoning",
+        "question": "Out of the two boxes, if one can contain maximum 35 books and the other cannot contain less than 20 books and more than 50 books, then which of the following can be concluded:\nI. The total number of books in both the boxes can never be less than 20.\nII. Both of the boxes together can contain more than 90 books.\nWhich one of the following is correct with respect to above?",
+        "options": ["A) Only I", "B) Only II", "C) Both I and II", "D) Neither I nor II"],
+        "answer": "A"
+      },
+      {
+        "id": 23,
+        "type": "Logical reasoning",
+        "question": "A, B, C, D, and E are standing in a straight line facing the north. E is on the immediate left of D. B is between E and A. If D and C are at the ends, which of the following is second to the right of C?",
+        "options": ["A) E", "B) B", "C) A", "D) D"],
+        "answer": "B"
+      },
+      {
+        "id": 24,
+        "type": "Logical reasoning",
+        "question": "Five students – A, B, C, D and E – scored different marks in a class. B scored more than D but less than C. C did not score the highest marks. A scored more than B but neither scored the highest or the second highest marks. The one who scored the second least marks got 52 and the one who scored the second highest marks got 94. What is the possible score of A?",
+        "options": ["96", "60", "52", "40"],
+        "answer": "B"
+      },
+      {
+        "id": 25,
+        "type": "Logical reasoning",
+        "question": "How is Kesav's mother-in-law's only daughter's daughter related to Kesav?",
+        "options": ["A) Daughter", "B) Sister", "C) Uncle", "D) Daughter-in-law"],
+        "answer": "A"
+      },
+      {
+        "id": 26,
+        "type": "Logical reasoning",
+        "question": "A is the father of B. C is the son of D. E is the brother of C while D is the sister of B. How is B related to E?",
+        "options": ["A) Uncle", "B) Aunt", "C) Mother", "D) Father", "E) Cannot be determined"],
+        "answer": "E"
+      },
+      {
+        "id": 27,
+        "type": "Logical reasoning",
+        "question": "A, B, C, D, E and F are six friends sitting around a round table. D is to the right of A and B is to the left of C. F - D and B - E are two pairs of persons sitting opposite each other. Who is sitting to the left of F?",
+        "options": ["A", "B", "C", "E", "D"],
+        "answer": "D"
+      },
+      {
+        "id": "LR-3",
+        "type": "LOGICAL REASONING",
+        "question": "Select the figure that follows the pattern.",
+        "image": "images/LR-3.png",
+        "options": { "A": "images/LR3-A.png", "B": "images/LR3-B.png", "C": "images/LR3-C.png", "D": "images/LR3-D.png", "E": "images/LR3-E.png" },
+        "answer": "C"
+      },
+      {
+        "id": "LR-4",
+        "type": "LOGICAL REASONING",
+        "question": "Select a suitable option that would complete the series.",
+        "image": "images/LR-4.png",
+        "options": { "A": "images/LR4-A.png", "B": "images/LR4-B.png", "C": "images/LR4-C.png", "D": "images/LR4-D.png" },
+        "answer": "C" 
+      },
+      {
+        "id": "LR-5",
+        "type": "LOGICAL REASONING",
+        "question": "In the given figure, what is the total number of triangles?",
+        "image": "images/LR-5.png",
+        "options": { "A": "27", "B": "26", "C": "23", "D": "22" },
+        "answer": "C"
+      },
+      {
+        "id": "LR-6",
+        "type": "LOGICAL REASONING",
+        "question": "Consider the given three-dimensional figure, how many triangles does it have?",
+        "image": "images/LR-6.png",
+        "options": { "A": "18", "B": "20", "C": "22", "D": "24" },
+        "answer": "B"
+      }
+    ]
+  }}

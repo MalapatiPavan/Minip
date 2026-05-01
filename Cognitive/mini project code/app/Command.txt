@@ -1,0 +1,6 @@
+PS D:\mpar projects\mini project code test> cd ".\mini project code"                                            
+PS D:\mpar projects\mini project code test\mini project code> cd ".\mini project code"                          
+PS D:\mpar projects\mini project code test\mini project code\mini project code> cd .(C:\Users\akaas\anaconda\shell\condabin\conda-hook.ps1) ; (conda activate base)
+PS D:\mpar projects\mini project code test\mini project code\mini project code> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+PS D:\mpar projects\mini project code test\mini project code\mini project code> .\.venv\Scripts\Activate.ps1    
+(.venv) PS D:\mpar projects\mini project code test\mini project code\mini project code> python -m streamlit run .\app\app.py     

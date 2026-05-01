@@ -1,0 +1,734 @@
+﻿0001: Numerical Word Problems example question:
+0002: It takes two machines at a toy factory 50 minutes to create ten (10) teddy bears. How
+0003: many teddy bears can one machine create in 30 minutes?
+0004: A) 6 teddy bears
+0005: B) 5 teddy bears
+0006: C) 3 teddy bears
+0007: D) 2 teddy bears
+0008: Explanation:
+0009: First find how many teddy bears one machine can create in 50 minutes:10/2 = 5 teddy bearsNow find how long it takes one machine to create 1 teddy bear:50/5 = 10 minutes per teddy bearAt last find how many teddy bears the machine can create in 30 minutes:30 / 10 = 3 teddy bears.
+0010: 19, 20, 21, ?, ?, 26, 28, 32, 33, 40
+0011: Which two numbers should replace the question marks?
+0012: A clean way to see the pattern is to split the sequence into odd and even positions:
+0013: Odd-position terms:
+0014: 19, 21, ?, 28, 33 Look at the differences:
+0015: 19 → 21 = +2
+0016: 21 → ? = +3
+0017: ? → 28 = +4
+0018: 28 → 33 = +5
+0019: So the missing number here is 21 + 3 = 24
+0020: Even-position terms:
+0021: 20, ?, 26, 32, 40 Look at the differences:
+0022: 20 → ? = +2
+0023: ? → 26 = +4
+0024: 26 → 32 = +6
+0025: 32 → 40 = +8
+0026: So the missing number here is 20 + 2 = 22.
+0027: Final Answer:
+0028: The missing numbers are 22 and 24 (in that order).
+0029: Which number is the odd one out? 84129, 32418, 47632, 36119, 67626, 72927
+0030: Explanation:
+0031: Each number follows this rule: 👉 First 3 digits form a perfect square 👉 Last 2 digits are the square root of that number
+0032: Check a few:
+0033: 32418 → 324 = 18² → ends with 18 ✔
+0034: 36119 → 361 = 19² → ends with 19 ✔
+0035: 67626 → 676 = 26² → ends with 26 ✔
+0036: 72927 → 729 = 27² → ends with 27 ✔
+0037: 84129 → 841 = 29² → ends with 29 ✔
+0038: But:
+0039: 47632 → 476 is not a perfect square ❌
+0040: 99 = 24.75 × 24 ? Complete the equation by correctly identifying the missing part of the calculation from the list of options below
+0041: . a. 0.75 b. 1.95 – 0.75 c. 0.52 d. 0.825 e. 0.25
+0042: Numerical Word Problems example question:
+0043: TechWave Solutions is planning to purchase new laptops and printers for its office. Each laptop
+0044: costs $800, and each printer costs $150. The company decides to buy twice as many laptops as
+0045: printers. If the total budget for this purchase is $14,000, how many printers can the company buy?
+0046: A) 6 printers
+0047: B) 8 printers
+0048: C) 10 printers
+0049: D) 12 printers
+0050: 7.
+0051: Find the missing number:
+0052: 1/10, 1/4, 2/5, 11/20, ?, 17/20
+0053: 8. Sonya is on a long hike. She walked 1/3 of the hike on the first day. She walked 2/5 of distance on the second day. On the third day she walked the remaining 12 miles.
+0054: What is the total distance of the hike?
+0055: 30 miles
+0056: 40 miles
+0057: 45 miles
+0058: 52 miles
+0059: 9.
+0060: 10.
+0061: 11.
+0062: OPTIONS:A,B,C,D
+0063: 12.To keep in shape Owen exercises daily. His workout routine includes running 3 miles every Monday, Wednesday, and
+0064: Friday. How many miles will he run in four weeks?
+0065: 9
+0066: 12
+0067: 36
+0068: 27
+0069: 13.
+0070: 40%
+0071: 120%
+0072: 20%
+0073: 50%
+0074: 14.
+0075: Quantity of Numbers example question:
+0076: Which of the following has the highest value?
+0077: A) 25% of 13
+0078: B) 31/2
+0079: C) 15/5
+0080: D) π
+0081: 15. If the temperature decreases by 2 degrees per 1,000 feet of gained altitude and if the temperature at sea level is 25 degrees, what would the temperature at 35,000 feet be?
+0082: -45
+0083: -35
+0084: -70
+0085: -10
+0086: 16. A newspaper salesman sells 40% of his newspapers. He now has 360 newspapers left. How many newspapers did he
+0087: have to begin with?
+0088: 600
+0089: 560
+0090: 480
+0091: 660
+0092: 17.
+0093: 18.
+0094: 19. Find a five – digit number that has the following properties:
+0095: If we put number 1 in front of the digits of that number ( so, we get a six-digit number) it gives a number which is three times smaller than when we write number 1 at the end of that number.
+0096: 20. Square area 90cm^2 was cut into three pieces that make up 3 triangles of different sides
+0097: (all three different sides and of course all three angles different).
+0098: Length of the longest possible side of the triangles is _ cm ?
+0099: 21. Find missing number :
+0100: 6, 28, 496, ? , 33550336 , .....
+0101: 22. Out of three numbers, the first is twice the second and three times the third. The average of the three numbers is 88. The smallest number is
+0102: (a) 36 (b) 42 (c) 48 (d) 72
+0103: 23,                                                                 24
+0104: i = root(-1)
+0105: 25. A student scored 95, 72, 73, 83 marks in four subjects each out of 100. He wants to score an average between 75 and 80. How much should he score in the fifth subject? Select the best suitable answer from the ranges mentioned below.
+0106: (a) 40-50  (c) 80-97 (b) 35-40 (d) 52-77
+0107: 26. An ant has six legs, a spider has eight legs and a mouse has four legs. But recently 612 legs were counted in a Biology laboratory which came from an equal number of each of these animals. Find out how many animals were there in the laboratory.
+0108: (a) 98 (b) 102 (c) 106 (d) Cannot be calculated
+0109: 27. Out of 65 spherical balls of the same size, 64 balls are of the same weight, but one ball is slightly less in weight compared to others. If there is a weighing balance having two pans that can show either balance or unbalance, then what is the minimum number of times that weighing should be carried out to surely find out the low-weight ball?
+0110: (a) 64 (b) 7 (c) 6 (d) 5
+0111: 28. In a class of 40 students, the number of students who passed Mathematics examination is equal to half the number of students who passed Science examination. Each student in the class has passed at least one of the two examinations. If 5 students passed both the examinations, then the number of students who passed Mathematics examination is
+0112: 5     b. 10   c.  15    d. 20
+0113: 29. What is the next number in the following series?
+0114: 2.236, 2.449, 2.646, 2.828, ?(a) 3.041 (b) 3.025 (c) 3.00О (d) 3.062
+0115: 30. Roy and Kavi are working on an assignment. Roy takes 6 hours to type 32 pages on a computer, while Kavi takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?
+0116: a. 8 hours 15 minutes
+0117: b. 10 hours
+0118: c. 7 hours 50 minutes
+0119: d. 6 hours 40 minutes
+0120: APPLIED REASONING
+0121: Q1.
+0122: You are told that in a certain environment, people who ask more questions are often perceived as less confident, even though they understand the topic well.
+0123: If you were placed in this environment, what would be the BEST approach?
+0124: A) Stop asking questions completely B) Ask questions selectively while demonstrating understanding C) Continue asking freely without concern D) Avoid participation altogether
+0125: Q2.
+0126: Suppose a system rewards only final outcomes and ignores the effort or process used to achieve them.
+0127: What is the most likely long-term effect?
+0128: A) People will consistently improve quality B) People may prioritize shortcuts over correctness C) Effort levels will increase significantly D) Collaboration will naturally improve
+0129: Q3.
+0130: You are working in a team where decisions are made quickly, but often without full discussion. You notice that some important points are being missed.
+0131: What is the BEST course of action?
+0132: A) Accept the system since it is efficient B) Delay decisions until everything is discussed C) Introduce concise checkpoints for critical inputs D) Criticize the decision-making openly
+0133: Q4.
+0134: You are given responsibility for a task, but the instructions are unclear and the person who assigned it is unavailable.
+0135: What should you do?
+0136: A) Wait until clear instructions are given B) Proceed based on assumptions without verification C) Clarify through available resources and proceed cautiously D) Avoid taking responsibility
+0137: Q5.
+0138: A team member agrees with everything during discussions but later fails to follow through on decisions.
+0139: What is the MOST likely underlying issue?
+0140: A) Lack of understanding B) Fear of expressing disagreement C) Lack of interest D) Intentional avoidance
+0141: Q6.
+0142: During a discussion, one person interrupts frequently but also contributes valuable ideas.
+0143: What is the BEST way to handle this?
+0144: A) Ignore interruptions since ideas are useful B) Confront them aggressively C) Acknowledge their input while setting boundaries for discussion flow D) Exclude them from discussions
+0145: Q7.
+0146: You notice tension between two team members affecting overall performance, but neither openly addresses the issue.
+0147: What should you do?
+0148: A) Ignore it since it is personal B) Confront both publicly C) Address it privately and facilitate resolution D) Replace one of them
+0149: Q8.
+0150: A highly capable individual consistently works alone and avoids collaboration, slowing team integration.
+0151: What is the BEST approach?
+0152: A) Force them to collaborate B) Allow them to work independently C) Gradually involve them in collaborative tasks D) Remove them from team projects
+0153: Q9.
+0154: If people are evaluated strictly based on comparison with others rather than personal improvement, what is the most likely outcome?
+0155: A) Increased motivation for everyone B) Healthy competition with no drawbacks C) Some individuals may feel discouraged despite improvement D) Performance differences will disappear
+0156: Q10.
+0157: Suppose feedback is given only when mistakes occur, and not when work is done correctly.
+0158: What is the likely effect?
+0159: A) People will improve faster B) People may associate feedback only with negativity C) Performance will remain unchanged D) Communication will improve
+0160: Q11.
+0161: You are in an environment where speaking less is perceived as thoughtful, but speaking more increases visibility.
+0162: What is the BEST strategy?
+0163: A) Speak as much as possible B) Remain mostly silent C) Speak selectively with meaningful contributions D) Follow what others are doing
+0164: Q12.
+0165: You are given freedom to complete a task in any way, but expectations are not clearly defined.
+0166: What is the BEST approach?
+0167: A) Do the minimum required B) Overdeliver without direction C) Define reasonable assumptions and align with expectations D) Wait for clarity
+0168: Q13.
+0169: Suppose in a system, mistakes are penalized heavily but successes are rarely recognized.
+0170: What is the most likely long-term outcome?
+0171: A) People will become highly innovative B) People will avoid taking risks C) Overall performance will increase significantly D) Collaboration will improve
+0172: Q14.
+0173: In an environment where everyone is encouraged to share ideas equally, regardless of expertise, what is the most likely challenge?
+0174: A) Lack of participation B) Difficulty in filtering valuable ideas C) Reduced creativity D) Faster decision-making
+0175: Q15.
+0176: You are assigned to a team where roles are not clearly defined, and multiple people start working on the same tasks unknowingly.
+0177: What is the BEST action?
+0178: A) Focus only on your own work B) Wait for someone else to organize C) Propose a simple task allocation structure D) Continue working and adjust later
+0179: Q16.
+0180: You receive critical feedback that seems vague and not directly actionable.
+0181: What should you do?
+0182: A) Ignore it since it lacks clarity B) Defend your work immediately C) Seek clarification and specific examples D) Change everything in your approach
+0183: Q17.
+0184: A team member becomes unusually quiet after their idea is not selected, but continues to participate minimally.
+0185: What is the MOST likely interpretation?
+0186: A) They lost interest in the task B) They feel undervalued or discouraged C) They have no further ideas D) They are satisfied with the decision
+0187: Q18.
+0188: During discussions, one person frequently agrees publicly but expresses different opinions privately to different individuals.
+0189: What does this MOST likely indicate?
+0190: A) Strong collaboration skills B) Strategic thinking C) Lack of confidence or fear of conflict D) High adaptability
+0191: Q19.
+0192: A high-performing team member consistently completes tasks independently but rarely shares progress, causing uncertainty in the team.
+0193: What is the BEST approach?
+0194: A) Let them work independently since performance is high B) Force strict reporting rules immediately C) Encourage regular updates while respecting their autonomy D) Reassign their tasks
+0195: Q20.
+0196: You notice that during group discussions, only a few individuals dominate while others remain silent, even when they seem to have ideas.
+0197: What is the BEST action?
+0198: A) Continue discussions as they are B) Directly ask silent members for input in a supportive way C) Ignore since participation is optional D) Replace silent members
+0199: Q21. An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?
+0200: A debating club meets on the first Sunday morning of every month.B. After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.C. Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.D. Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya.Answer: B.
+0201: 22. A Tiebreaker is an additional contest carried out to establish a winner among tied contestants. Choose one situation from the options below that best represents a Tiebreaker.
+0202: At halftime, the score is tied at 2-2 in a football match.B. Serena and Maria have each secured 1 set in the game.C. The umpire tosses a coin to decide which team will have bat first.D. RCB and KKR each finished at 140 all out.Answer: D
+0203: 23.  You are in a team where one member consistently delivers high-quality work but refuses to follow agreed timelines, causing delays for others. What is the BEST approach?
+0204: A) Ignore the delays since quality is high B) Enforce strict deadlines without discussion C) Discuss balancing quality with team dependencies D) Reassign all their work
+0205: Q23. → C
+0206: Balances both quality and team coordination without conflict.
+0207: Q24. Suppose an organization encourages innovation but criticizes failed attempts publicly. What is the most likely outcome?
+0208: A) Increase in creative risk-taking B) Balanced innovation and stability C) Reduced willingness to experiment D) Higher transparency in failures
+0209: Q24. → C
+0210: Public criticism of failure discourages risk-taking.
+0211: Q25. During a project discussion, you realize that your idea is better than the one currently accepted, but the team has already moved forward. What should you do?
+0212: A) Interrupt and insist on revisiting your idea B) Let it go completely C) Evaluate impact and suggest improvement at the right moment D) Privately criticize the decision later
+0213: Q25. → C
+0214: Right timing + evaluation avoids disruption and adds value.
+0215: Q26. A team leader gives equal attention to all members regardless of performance differences. What is the most likely long-term effect?
+0216: A) High performers may feel undervalued B) Team productivity will maximize C) Competition will increase positively D) Performance gaps will reduce automatically
+0217: Q26. → A
+0218: High performers feel unrecognized when treated equally.
+0219: Q27. You are working in an environment where quick decisions are valued more than accurate ones. What is the BEST personal strategy?
+0220: A) Always prioritize speed B) Focus only on accuracy C) Balance speed with acceptable accuracy levels D) Avoid decision-making roles
+0221: Q27. → C
+0222: Practical balance fits real-world constraints.
+0223: Q28. A colleague frequently takes credit for shared work but also contributes significantly behind the scenes. What is the BEST way to respond?
+0224: A) Publicly confront them immediately B) Ignore since they contribute C) Address the issue privately and clarify contributions D) Stop collaborating with them
+0225: Q28. → C
+0226: Private discussion resolves issue without damaging teamwork.
+0227: Q29. In a system where instructions frequently change midway through tasks, what is the most effective approach?
+0228: A) Wait for final instructions before starting B) Continue without adapting C) Build flexibility and regularly realign with updates D) Ignore changes and finish initial plan
+0229: Q29. → C
+0230: Adaptability is key in dynamic environments.
+0231: Q30. You notice that when feedback is given in a group, some members become defensive and disengaged. What is the BEST approach to improve this?
+0232: A) Stop giving feedback entirely B) Continue the same method C) Provide sensitive feedback privately when needed D) Give harsher feedback to build resilience
+0233: Q30. → C
+0234: Private feedback reduces defensiveness and improves acceptance.
+0235: ANSWERS:
+0236: Q1 → ✅ B) Ask questions selectively while demonstrating understanding
+0237: ✔️ Why:
+0238: You balance:
+0239: learning (asking questions)
+0240: perception (confidence) 👉 Not extreme, not passive → strategic behavior
+0241: Q2 → ✅ B) People may prioritize shortcuts over correctness
+0242: ✔️ Why:
+0243: If only outcomes matter → process ignored 👉 People optimize for results, even unethically or inefficiently
+0244: 🔹 2. Situational
+0245: Q3 → ✅ C) Introduce concise checkpoints for critical inputs
+0246: ✔️ Why:
+0247: Maintains speed
+0248: Fixes missing input problem 👉 Balanced solution (not extreme like delaying everything)
+0249: Q4 → ✅ C) Clarify through available resources and proceed cautiously
+0250: ✔️ Why:
+0251: Shows:
+0252: ownership
+0253: initiative
+0254: risk control
+0255: 🔹 3. Emotional Reasoning
+0256: Q5 → ✅ B) Fear of expressing disagreement
+0257: ✔️ Why:
+0258: Agreeing publicly but not acting = hidden hesitation/conflict avoidance
+0259: Q6 → ✅ C) Acknowledge input + set boundaries
+0260: ✔️ Why:
+0261: Keeps value
+0262: Fixes behavior 👉 Emotionally intelligent + structured
+0263: 🔹 4. Situational + Emotional
+0264: Q7 → ✅ C) Address it privately and facilitate resolution
+0265: ✔️ Why:
+0266: Conflict + sensitivity 👉 Public confrontation worsens situation
+0267: Q8 → ✅ C) Gradually involve them in collaborative tasks
+0268: ✔️ Why:
+0269: Respects individuality
+0270: Encourages adaptation 👉 Best long-term integration
+0271: 🔹 5. Hypothetical + Emotional
+0272: Q9 → ✅ C) Some individuals may feel discouraged despite improvement
+0273: ✔️ Why:
+0274: Relative comparison → demotivation for improving but still behind
+0275: Q10 → ✅ B) People may associate feedback only with negativity
+0276: ✔️ Why:
+0277: Feedback = only criticism 👉 Creates negative conditioning
+0278: 🔥 Ultra
+0279: Q11 → ✅ C) Speak selectively with meaningful contributions
+0280: ✔️ Why:
+0281: Balances:
+0282: visibility
+0283: perception 👉 Most strategic option
+0284: Q12 → ✅ C) Define reasonable assumptions and align with expectations
+0285: ✔️ Why:
+0286: Handles ambiguity
+0287: Shows initiative + alignment
+0288: Q13 → ✅ B) People will avoid taking risks
+0289: ✔️ Why:
+0290: Heavy penalty + low recognition 👉 Creates fear-driven behavior 👉 People play safe instead of innovating
+0291: Q14 → ✅ B) Difficulty in filtering valuable ideas
+0292: ✔️ Why:
+0293: Equal participation ≠ equal expertise 👉 Leads to information overload + noise 👉 Hard to identify high-quality inputs
+0294: 🔹 Situational
+0295: Q15 → ✅ C) Propose a simple task allocation structure
+0296: ✔️ Why:
+0297: Solves root problem (role ambiguity)
+0298: Shows leadership without overstepping
+0299: Q16 → ✅ C) Seek clarification and specific examples
+0300: ✔️ Why:
+0301: Converts vague feedback → actionable 👉 Best professional response
+0302: 🔹 Emotional Reasoning
+0303: Q17 → ✅ B) They feel undervalued or discouraged
+0304: ✔️ Why:
+0305: Sudden silence after rejection 👉 Indicates emotional impact, not lack of ideas
+0306: Q18 → ✅ C) Lack of confidence or fear of conflict
+0307: ✔️ Why:
+0308: Public agreement + private disagreement 👉 Classic conflict avoidance behavior
+0309: 🔹 Situational + Emotional
+0310: Q19 → ✅ C) Encourage regular updates while respecting autonomy
+0311: ✔️ Why:
+0312: Keeps:
+0313: performance
+0314: team awareness 👉 Balanced solution
+0315: Q20 → ✅ B) Ask silent members for input supportively
+0316: ✔️ Why:
+0317: Improves inclusivity
+0318: Encourages participation without pressure
+0319: Verbal Ability:
+0320: 1.Canvas is to painter
+0321: as clay is to
+0322: Sculptor
+0323: Artist
+0324: Kiln
+0325: Potter
+0326: Explanation:
+0327: Canvas is a painter's medium; clay is a sculptor's medium. 1
+0328: 2.Frank has been depressed for a long time now. He says that he is very
+0329: ______  at school because he _____ all his classmates and the teachers.
+0330: B) unhappy, dislikes
+0331: C) tired, alienated
+0332: D) bored, loves
+0333: A) happy, likes
+0334: Explanation:
+0335: The corrcet answer is B) unhappy, dislikes.To determine the correct answer, we need to consider the context provided in the sentence. Frank has been depressed for a long time. This context suggests that the blank spaces in the sentence are likely to be filled with words that align with feelings of depression.The words (unhappy, dislikes) aligns well with the context. If Frank dislikes his classmates and teachers, it could contribute to or be a symptom of his depression, making him feel unhappy at school.
+0336: 3.Which is a synonym or an antonym to nebulous?
+0337: Vague
+0338: Villainous
+0339: Whimsical
+0340: Quick
+0341: Ans: (1)
+0342: Explanation : Nebulous has more than one meaning.
+0343: Nebulous can mean cloudy/hazy, or it can mean vague or ill-defined. So, the correct answer is vague.
+0344: Villainous means criminal.
+0345: Whimsical means fanciful and playful.
+0346: Quick means fast or prompt.
+0347: 4.How many of the five items on the left side are identical to the corresponding item on the right side?
+0348: utehofmann@jourrapide.com
+0349: svenfreud@teleworm.us
+0350: paulkalb@therip.com
+0351: lucafriedman@dayrep.com
+0352: ghristingoldschmidt@jourrapide.com
+0353: utehofman@jourrapide.com
+0354: svendfreud@teleworm.us
+0355: paulkalb@therip.co.uk
+0356: lucafriedmann@dayrep.com
+0357: ghristinegoldschmidt@jourrapide.com
+0358: 0 1  2 3 4 5
+0359: The correct answer is 0.
+0360: The differences are marked below:
+0361: utehofmann@jourrapide.com - utehofman@jourrapide.com
+0362: svenfreud@teleworm.us - svendfreud@teleworm.us
+0363: paulkalb@therip.com - paulkalb@therip.co.uk
+0364: lucafriedman@dayrep.com - lucafriedmann@dayrep.com
+0365: ghristingoldschmidt@jourrapide.com - ghristinegoldschmidt@jourrapide.com
+0366: 5.If the words below are rearranged to form a proper sentence, what is the last letter of the third
+0367: word?
+0368: Girlfriend ring birthday he his her for a gave
+0369: A) R
+0370: B) S
+0371: C)D
+0372: D) E
+0373: Explanation: B
+0374: The correct order of the words is:He gave his girlfriend a ring for her birthday
+0375: 6.Which word does not belong?
+0376: Canada
+0377: Africa
+0378: Spain
+0379: China
+0380: Explanation: 2
+0381: China, Canada, and Spain are countries. Africa is a continent.
+0382: 7.Which is a synonym or an antonym to similitude?
+0383: Equivalence
+0384: Prospect
+0385: Tortuous
+0386: Capricious
+0387: Explanation: 1
+0388: Similitude means similarity in appearance or character.
+0389: Equivalence means qualities that are comparable. Equivalence is a synonym to similitude.
+0390: Tortuous means full of twists, turns, or bends.
+0391: Capricious means a person given to sudden and unaccountable changes of mood or behavior.
+0392: Prospect means the possibility of future success.
+0393: 8.Facts:
+0394: All crows are black.
+0395: All black birds are loud.
+0396: All crows are birds.
+0397: Conclusion: All crows are loud.
+0398: Does the conclusion follow?
+0399: Answer Options:
+0400: A) Yes
+0401: B) No
+0402: C) Insufficient information
+0403: Explanation: YES
+0404: We have to determine whether all crows are loud. We know that all crows are birds, and all crows are black. Meaning that all crows are black birds. We also know that all black birds are loud. Therefore, all crows are loud – the statement is correct.
+0405: 9.Identify the word that does not belong with the others:
+0406: A) Apple
+0407: B) Banana
+0408: C) Carrot
+0409: D) Orange
+0410: Ans : C
+0411: 10.Which two words do not belong?
+0412: Republican
+0413: Doctor
+0414: Professor
+0415: Accountant
+0416: Carpenter
+0417: Humanist
+0418: Explanation: 6
+0419: Doctor, professor, accountant, and carpenter are all professions. A humanist is a person with a particular philosophical or ethical
+0420: stance, whereas a republican refers to a person's political party.
+0421: 11. Speed is to fast
+0422: as temperature is to
+0423: Thermometer
+0424: Warm
+0425: Degrees Fahrenheit
+0426: Ice
+0427: Explanation: 2
+0428: Fast describes the speed of something. Warm describes the temperature of something.
+0429: 11. Mitigate – Aggravate
+0430: These words :
+0431: Have similar meanings
+0432: Have opposite meanings
+0433: Are neither similar nor opposite
+0434: Explanation: 2
+0435: Mitigate To make something less severe, serious, or painful.
+0436: Aggravate To make a problem, situation, or condition worse.
+0437: 12. I've long anticipated this retrospective of the artist's
+0438: work, hoping that it would make(i) _______
+0439: judgments about him possible, but greater
+0440: familiarity with his paintings highlights their inherent______(ii)
+0441: and actually makes one's _____(iii)
+0442: ANS: CEH
+0443: 14.In the 1950s, people were ______ and knew little about foreign countries.
+0444: A) Cosmopolitan B) Insular C) Erudite D) Intelligent E) Curious
+0445: Answer: B
+0446: 15.Statements are ______ when considered in isolation.
+0447: A) Precise
+0448: B) Misleading
+0449: C) Complete
+0450: D) Consistent
+0451: E) Reliable
+0452: Answer: B
+0453: 16.Passage: Many students believe that studying for long hours guarantees success. However, research shows that effective study techniques, such as spaced repetition and active recall, are more beneficial than simply increasing study time.
+0454: Q1. What is the main idea of the passage? A) Studying longer is always better B) Research is not useful for students C) Effective techniques matter more than study time D) Students should avoid studying
+0455: ANS:
+0456: C) Effective techniques matter more than study time
+0457: Explanation:The passage contrasts long study hours vs effective methods, and clearly supports techniques like spaced repetition and active recall as better → so main idea = techniques matter more.
+0458: 17.“Hard work beats talent when talent does not work hard.”
+0459: Explain this statement in your own words with an example.
+0460: 18.Despite the committee’s initial enthusiasm, the proposal was ultimately rejected because it failed to ______ the long-term implications of the policy. A) overlook B) anticipate C) exaggerate D) dismiss
+0461: Answer:
+0462: B) anticipate
+0463: 👉 The proposal failed because it did not consider/foresee long-term implications.
+0464: 19.Passage: “In an era dominated by rapid technological advancement, individuals often prioritize efficiency over depth, leading to a superficial understanding of complex issues.”
+0465: What can be inferred? A) Technology improves deep thinking B) People focus more on speed than understanding C) Complex issues are no longer important D) Efficiency leads to better knowledge
+0466: Answer:
+0467: B) People focus more on speed than understanding
+0468: 👉 Passage contrasts efficiency (speed) vs depth (understanding) → people prioritize speed.
+0469: 20.The countries' rigid stances on the issue made them _________
+0470: negotiations.
+0471: A. adaptable
+0472: B. inflexible
+0473: C. dissatisfied
+0474: D. malleable
+0475: E. optimistic
+0476: Remember, we must select two answers that logically complete the sentence and produce two sentence versions with the same meaning. So, let’s go through the answer choices in order, pairing them with their synonyms (if present) as we go.
+0477: Choice (A), adaptable (flexible, adjustable), is the opposite of what would logically complete the sentence. After all, if the countries have “rigid (not flexible) stances,” then it does not make sense that the countries would be “adaptable” in negotiations.
+0478: So, we can eliminate choice (A) and its synonym, choice (E), malleable, which produces the same illogical sentence meaning.
+0479: Choice (B), inflexible, is an antonym (i.e., word meaning the opposite) ofadaptable/malleable, the answer pair we just eliminated as the opposite of what we need. Thus, “inflexible” is logical in the given context.
+0480: Notice also that “inflexible” is a synonym of the word “rigid,” which appears in the sentence and is also an antonym of adaptable/malleable. In this context, a synonym of “rigid” makes sense to complete the sentence, because if the countries have “rigid stances,” as the sentence says, then the countries logically would be “inflexible” in negotiations.
+0481: Choice (D), immovable, creates essentially the same sentence meaning as “inflexible” in this context. Thus, we have found a logical synonym pair, “inflexible” and “immovable,” with which to produce two sentence versions that have basically the same meaning. However, let’s evaluate the remaining two answer choices just in case.
+0482: Although choice (C), dissatisfied, could be logical in context, the only choice remaining for “dissatisfied” to pair with is choice (F), optimistic, which in this context conveys essentially the opposite meaning of “dissatisfied.”
+0483: Since these two remaining choices do not create the same sentence meaning, or pair with any other answer to create the same meaning, they cannot possibly be correct. So, we can eliminate both (C) and (F).
+0484: Thus, choices (B) and (D), inflexible/immovable, are the only two answers that accomplish both of the required tasks in an SE question: logically completing the sentence and creating equivalent sentence meanings.
+0485: Answer: B) inflexible, D) immovable 👉 “Rigid stances” = not flexible → both words mean the same and fit context.
+0486: 21. The given sentence is wrong. Find the correct replacement.
+0487: You need not come unless you want to.
+0488: You don't need to come unless you want to
+0489: b) You come only when you want to
+0490: c) You come unless you don't want to
+0491: d) You needn't come until you don't want to
+0492: e) No correction required
+0493: Ans : a
+0494: 22. Fill in the blank with the correct word for the sentence given below.
+0495: Fate smiles ...... those who untiringly grapple with stark realities of life.
+0496: with
+0497: over
+0498: on
+0499: Round
+0500: Ans: 3
+0501: 23. In question given below out of four alternatives, choose the one which can be substituted for the given word/sentence.
+0502: That which cannot be corrected
+0503: Unintelligible
+0504: Indelible
+0505: Illegible
+0506: Incorrigible
+0507: Answer: Option 4
+0508: Explanation:
+0509: Incorrigible (Adjective): (of a person or their tendencies) Not able to be corrected, improved, or reformed.
+0510: 24. In the question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.
+0511: The grocer
+0512: The Proper sequence should be:
+0513: PRSQ
+0514: QSPR
+0515: QPRS
+0516: PQSR
+0517: Answer: Option 3
+0518: 25. In the question given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+0519: The workers are hell bent at getting what is due to them.
+0520: hell bent on getting
+0521: hell bent for getting
+0522: hell bent upon getting
+0523: No improvement
+0524: Answer: Option 3
+0525: 26. Rearrange the following five sentences in proper sequence so as to for a meaningful   paragraph, then answer the question given below them.
+0526: After Examining him, the doctor smiled at him mischievously and took out a syringe.
+0527: Thinking that he was really sick, his father summoned the family doctor.
+0528: That day, Mintu wanted to take a day off from school
+0529: Immediately, Mintu jumped up from his bed and swore the he was fine
+0530: Therefor; he pretended to be sick and remained in bed.
+0531: Which sentence should come third in the paragraph?
+0532: 1
+0533: 2
+0534: 3
+0535: 4
+0536: 5             ANSWER: 2
+0537: 27. Complete the sentence.
+0538: Despite his best efforts to conceal his anger ......
+0539: we could detect that he was very happy
+0540: he failed to give us an impression of his agony
+0541: he succeeded in camouflaging his emotions
+0542: he could succeed in doing it easily
+0543: people came to know that he was annoyed
+0544: Answer: Option 5
+0545: 28. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.
+0546: To catch a tartar
+0547: To trap wanted criminal with great difficulty
+0548: To catch a dangerous person
+0549: To meet with disaster
+0550: To deal with a person who is more than one's match
+0551: None of these
+0552: Answer: Option 2
+0553: 29. Choose the word which best expresses the meaning of the given word.
+0554: BRIEF
+0555: Limited
+0556: Small
+0557: Little
+0558: Short
+0559: Answer: Option 4
+0560: 30. In the following questions choose the word which is the exact OPPOSITE of the given words.
+0561: COMMISSIONED
+0562: Started
+0563: Closed
+0564: Finished
+0565: Terminated
+0566: Answer: Option 4
+0567: Logical reasoning:
+0568: 1.All crows are black. All black birds are loud. All crows are birds.
+0569: Statement: All crows are loud.
+0570: Answer Options:
+0571: A) True
+0572: B) False
+0573: C) Insufficient information
+0574: Explanation:
+0575: We have to determine whether all crows are loud.We know that all crows are birds, and all crows are black. Meaning that all crows are black birds. We also know that all black birds are loud. Therefore, all crows are loud – the statement is correct.
+0576: 2.Statement:
+0577: Some documents require legal review.All documents that require legal review are approved by the legal team.
+0578: Conclusion:
+0579: Some documents are approved by the legal team.
+0580: A.The conclusion follows logically
+0581: B.The conclusion does not follow logically
+0582: 2.In a certain code language, BEAT is written as YVZG. Then what will be the code of MILD?
+0583: (a) ONRW (b) NOWR (c) ONWR (d) NROW
+0584: 3.Select a suitable option that would complete the series.
+0585: A) A        B) B            C) C          D) D
+0586: Explanation:
+0587: With each step in the series, the circle becomes slightly larger, while the rectangle becomes slightly smaller.
+0588: 4.If someone has a car then they also have a bike.
+0589: If someone has a bike, then they also have a helmet.
+0590: What can be concluded?
+0591: Those who have helmets also have a car.
+0592: Those who have bikes also have a car.
+0593: Those who have cars also have a helmet.
+0594: Those who have helmets also have a bike.
+0595: explanation:Those who have a car also have a bike, and those who have a bike also have a helmet, ergo those who have a car also have a
+0596: helmet.
+0597: Those who have a car will also have a bike, but this does not make it certain that those who have a bike will have a car.
+0598: 5.
+0599: Rule 1: The figures change in the following sequence: X - 4 - O
+0600: Rule 2: The arrow rotates clockwise in each step.
+0601: 6.
+0602: ANS:
+0603: The two longest lines in the figure-one outside the figure and the longest line inside-are rotated 90 degrees around the center of the
+0604: figure with each step. The rest of the figure remains stationary and unchanged.
+0605: 7. A padlock has a four-digit key code. The following information is given :
+0606: 1. Code 2657 has two correct digits, but neither are in the correct places.
+0607: 2. Code 0415 has one correct digit, but it is in the wrong place.
+0608: 3. Code 4268 has no correct digits.
+0609: 4. Code 1749 has two correct digits and both are in the correct places.
+0610: What is the correct code?
+0611: (a) 4365 (b) 5378 (c) 8736 (d) 5739
+0612: 8. A man walks 1 km towards East and then he turns to South and walks 5 km. Again he turns to East and walks 2 km; after this he turns to North and walks 9 km. Now how far is he from his starting point? (a) 3 km (b) 4 km (c) 5 km (d) 7 km
+0613: 9. A man is facing West. He turns 45° in the clockwise direction and then another 180° in the same direction and then 270° in the anticlockwise direction. Which direction is he facing now? (a) West (b) North-West (c) South (d) South-West
+0614: 10. A bus for Delhi leaves every thirty minutes from a bus stand. An enquiry clerk told a passenger that a bus had already left ten minutes ago and the next bus will leave at 9:35 a.m. At what time did the enquiry clerk give this information to the passenger?
+0615: (a) 8:55 a.m. (b) 9:08 a.m. (c) 9:05 a.m. (d) 9:15 a.m.
+0616: 11.A rectangular area of side 9 and 6 units is to be covered by square tiles of sides 1, 2 and 5 units. The minimum number of tiles needed for this is (a) 13 (b) 11 (c) 12 (d) 15
+0617: 12.Nandini walks a distance of 1 km towards North. She then turns left and walks 1 km. Finally she turns right at an angle of 45° and starts walking. In which direction she is moving finally?
+0618: (a) South-West (b) North-West (c) North-East (d) South-East
+0619: 13. The following question is based on the alphabet series: ABCDEFGHIJKLMNOPQRSTUVWXYZ If every alternate letter starting from B of the given alphabet is written in small letters, rest all are written in capital letters, how will the month of 'September' be written?
+0620: (a) SEpteMbeR (b) SEptEMbEr (c) SEptembER (d) sePTemBeR
+0621: 14.
+0622: 15.  Ramesh starts walking from point 'A'. He walks 12 km towards North from there he turns right and walks 4 km, then he again turns right and walks 9 km. How far and which direction he is from his starting point? (a) 13 km East (b) 13 km South (c) 5 km North (d) 5 km North-East
+0623: 16.
+0624: Solution:
+0625: Assuming the sides of triangles from the given figure
+0626: 1 unit triangles = 12
+0627: 2 unit triangles = 7
+0628: 3 unit triangles = 3
+0629: 4 unit triangles = 1
+0630: Total triangles = 12 + 7 + 3 + 1 = 23
+0631: Hence option (c) is correct
+0632: 17. Q2. There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed? [CSAT 2017]
+0633: (a) 16
+0634: (b) 24
+0635: (c) 36
+0636: (d) 42
+0637: Solution:
+0638: Given that,
+0639: There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another.
+0640: With the conditions given, two form a rectangle or a square there must be selection of two vertical lines and two horizontal lines.
+0641: So,
+0642: 4C2 x 4C2 = 6 x 6 = 36  (by selecting vertical and horizontal lines)
+0643: 36 squares and rectangles can be formed.
+0644: Hence option (c) is correct
+0645: 18. Solution:
+0646: From the given figure the number of triangles formed:
+0647: Top = 5 triangles
+0648: Bottom = 5 triangles
+0649: Back = 5 triangles
+0650: Middle or front = 5 triangles
+0651: Total triangles = 20
+0652: Hence option (b) is correct
+0653: 19. Q4. A, B, C, D, E, F and G are members of a family consisting of four adults and three children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E is an engineer married to one of the brothers and has two children. B is married to D and G is their child. Who is C?
+0654: a. E’s daughter
+0655: b. G’s brother
+0656: c. F’s father
+0657: d. A’s son
+0658: 20. If TRANSFER is coded as RTNAFSRE, then ELEPHANT would be coded as
+0659: a. LEPEHATN
+0660: b. LEEPAHTN
+0661: c. LEPEAHTN
+0662: d. LEPEAHNT
+0663: 21. All good athletes want to win and all athletes who want to win eat a well-balanced diet; therefore all athletes who do not cat a well-balanced diet are bad athletes.
+0664: The best conclusion from this statement is that
+0665: a. No bad athlete wants to win.b. No athlete who does not eat a well-balanced diet is a good athlete.c. Every athlete who eats a well-balanced diet is a good athlete.d. All athletes who want to win are good athletes.
+0666: 22. Out of the two boxes, if one can contain maximum 35 books and the other cannot contain less than 20 books and more than 50 books, then which of the following can be concluded:
+0667: I. The total number of books in both the boxes can never be less than 20.II. Both of the boxes together can contain more than 90 books.
+0668: Which one of the following is correct with respect to above?
+0669: (a) Only I
+0670: (b) Only II
+0671: (c) Both I and II
+0672: (d) Neither I nor II
+0673: 23. A, B, C, D, and E are standing in a straight line facing the north. E is on the immediate left of D. B is between E and A. If D and C are at the ends, which of the following is second to the right of C?
+0674: (a) E
+0675: (b) B
+0676: (c) A
+0677: (d) D
+0678: 24. Five students – A, B, C, D and E – scored different marks in a class. B scored more than D but less than C. C did not score the highest marks. A scored more than B but neither scored the highest or the second highest marks. The one who scored the second least marks got 52 and the one who scored the second highest marks got 94. What is the possible score of A?
+0679: (a) 96
+0680: (b) 60
+0681: (c) 52
+0682: (d) 40
+0683: 25. How is Kesav's mother-in-law's only daughter's daughter related to Kesav?
+0684: (1) Daughter
+0685: (2) Sister
+0686: (3) Uncle
+0687: (4) Daughter-in-law
+0688: 26.  A is the father of B. C is the son of D. E is the brother of C while D is the sister of B. How is B related to E?
+0689: (1) Uncle
+0690: (2) Aunt
+0691: (3) Mother
+0692: (4) Father
+0693: (5) Cannot be determined
+0694: 27. A, B, C, D, E and F are six friends sitting around a round table. D is to the right of A and B is to the left of C. F - D and B - E are two pairs of persons sitting opposite each other. Who is sitting to the left of F?
+0695: (1) A
+0696: (2) B
+0697: (3) C
+0698: (4) E
+0699: (5) D
+0700: 28.  Some books are clocks. No dock is a clock. (1) Some books are not docks. (2) Some books are not clocks. (3) Some docks are not books. (4) Both (1) and (3)
+0701: 29. Q13. Safe : Secure :: Protect :
+0702: A. LockB. GuardC. SureD. ConserveAnswer: B. Guard
+0703: 30.  Kevin, Joseph, and Nicholas are 3 brothers. If the following statements are all true, which of them is the youngest?
+0704: ✓Kevin is the oldest.✓Nicholas is not the oldest.✓Joseph is not the youngest.A. JosephB. KevinC. NicholasD. Both Joseph and Nicholas
+0705: Working memory:
+0706: n image with multiple objects is shown for 30 seconds. After it disappears, list all the objects you remember.
+0707: 2.A sequence of letters is presented:K, D, L, C, B, A What letter appeared two positions before B?
+0708: A) D B) L C) C D) K
+0709: Correct Answer: B) L
+0710: 3.A sequence of numbers is presented: 3, 8, 2, 9, 5
+0711: Recall the numbers in reverse order.
+0712: A) 5, 9, 2, 8, 3 B) 3, 8, 2, 9, 5 C) 5, 2, 9, 8, 3 D) 9, 5, 2, 8, 3
+0713: Correct Answer:A) 5, 9, 2, 8, 3
+0714: 4.Sequence:F, J, K, L, S, R, Q What are the last three letters in order?
+0715: A) Q, R, S B) L, Q, R C) K, L, Q D) R, S, Q
+0716: Correct Answer: A) Q, R, S
+0717: 5.Remember: 4, 9, 15 Add 5 to each and report in reverse order.
+0718: A) 20, 14, 9 B) 9, 14, 20 C) 19, 14, 9 D) 20, 13, 9
+0719: Correct Answer: A) 20, 14, 9
+0720: 6.Solve: (8 × 2) − 5 = ? Remember: 3, 7, 12 Recall numbers in ascending order.
+0721: A) Answer = 11; Sequence = 3, 7, 12 B) Answer = 11; Sequence = 12, 7, 3 C) Answer = 13; Sequence = 3, 7, 12 D) Answer = 11; Sequence = 7, 3, 12
+0722: Correct Answer: A) Answer = 11; Sequence = 3, 7, 12
+0723: 7.Grid Memory:
+0724: Random 3 cells will be highlighted for 5 seconds .After that they need to recognize those cells.
+0725: 8.
+0726: Based on your memory of Pattern A, identify the main change in Pattern B.
+0727: A) A shape has changed its color B) A shape has changed its position C) A shape has changed its shape type D) No change has occurred
+0728: Correct Answer:A) A shape has changed its color
+0729: 9.Delayed Recall:
+0730: Recall the objects shown in Question 1 (image task).
+0731: 10.Remember: apple, chair, river Read:"The sun provides energy that helps plants grow through photosynthesis."
+0732: What is correct?
+0733: A) Plants grow due to water; Words: apple, river, chair B) Plants grow due to sunlight; Words: apple, chair, river C) Plants grow due to soil; Words: chair, apple, river D) Plants grow due to air; Words: river, chair, apple
+0734: Correct Answer: B) Plants grow due to sunlight; Words: apple, chair, river
